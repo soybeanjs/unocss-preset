@@ -1,7 +1,5 @@
 # Changelog
 
-# CHANGLOG
-
 ## [v0.0.1](https://github.com/soybeanjs/unocss-preset/compare/undefined...v0.0.1) (2024-06-12)
 
 ### &nbsp;&nbsp;&nbsp;🚀 Features
