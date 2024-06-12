@@ -1,5 +1,5 @@
 {
-  "name": "unocss-preset",
+  "name": "@soybeanjs/unocss-preset",
   "type": "module",
   "version": "0.0.0",
   "packageManager": "pnpm@9.3.0",
@@ -30,11 +30,6 @@
   "main": "dist/index.cjs",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
-  "typesVersions": {
-    "*": {
-      "*": ["./dist/*", "./*"]
-    }
-  },
   "files": ["dist"],
   "scripts": {
     "build": "tsup",
