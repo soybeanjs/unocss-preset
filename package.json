@@ -1,0 +1,72 @@
+{
+  "name": "unocss-preset",
+  "type": "module",
+  "version": "0.0.0",
+  "packageManager": "pnpm@9.3.0",
+  "description": "soybeanjs's unocss preset",
+  "author": {
+    "name": "Soybean",
+    "email": "soybeanjs@outlook.com",
+    "url": "https://github.com/soybeanjs"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/soybeanjs/unocss-preset",
+  "repository": {
+    "url": "https://github.com/soybeanjs/unocss-preset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/soybeanjs/unocss-preset/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "typesVersions": {
+    "*": {
+      "*": ["./dist/*", "./*"]
+    }
+  },
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsup",
+    "cleanup": "soy cleanup",
+    "commit": "soy git-commit",
+    "dev": "tsup --watch",
+    "lint": "eslint . --fix",
+    "prepare": "simple-git-hooks",
+    "publish-pkg": "pnpm publish --access public",
+    "release": "soy release",
+    "typecheck": "tsc --noEmit --skipLibCheck",
+    "update-pkg": "soy ncu"
+  },
+  "dependencies": {
+    "@unocss/core": "0.61.0"
+  },
+  "devDependencies": {
+    "@soybeanjs/cli": "1.0.16",
+    "@soybeanjs/eslint-config": "1.3.6",
+    "@types/node": "20.14.2",
+    "eslint": "9.4.0",
+    "lint-staged": "15.2.6",
+    "simple-git-hooks": "2.11.1",
+    "tsup": "8.1.0",
+    "tsx": "4.15.2",
+    "typescript": "5.4.5"
+  },
+  "simple-git-hooks": {
+    "commit-msg": "pnpm soy git-commit-verify",
+    "pre-commit": "pnpm typecheck && pnpm lint-staged"
+  },
+  "lint-staged": {
+    "*": "eslint --fix"
+  }
+}
