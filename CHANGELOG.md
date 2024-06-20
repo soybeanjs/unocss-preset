@@ -1,5 +1,23 @@
 # Changelog
 
+## [v0.0.2](https://github.com/soybeanjs/unocss-preset/compare/v0.0.1...v0.0.2) (2024-06-20)
+
+### &nbsp;&nbsp;&nbsp;🚨 Breaking Changes
+
+- **projects**: export function preset &nbsp;-&nbsp; by @honghuangdc [<samp>(5ab96)</samp>](https://github.com/soybeanjs/unocss-preset/commit/5ab966c)
+
+### &nbsp;&nbsp;&nbsp;📖 Documentation
+
+- **projects**: update CHANGELOG &nbsp;-&nbsp; by @honghuangdc [<samp>(3042c)</samp>](https://github.com/soybeanjs/unocss-preset/commit/3042cb2)
+
+### &nbsp;&nbsp;&nbsp;🏡 Chore
+
+- **deps**: update deps &nbsp;-&nbsp; by @honghuangdc [<samp>(22e59)</samp>](https://github.com/soybeanjs/unocss-preset/commit/22e590a)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+[![honghuangdc](https://github.com/honghuangdc.png?size=48)](https://github.com/honghuangdc)&nbsp;&nbsp;
+
 ## [v0.0.1](https://github.com/soybeanjs/unocss-preset/compare/undefined...v0.0.1) (2024-06-12)
 
 ### &nbsp;&nbsp;&nbsp;🚀 Features
