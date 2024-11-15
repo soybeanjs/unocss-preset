@@ -1,7 +1,7 @@
 {
   "name": "@soybeanjs/unocss-preset",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "packageManager": "pnpm@9.3.0",
   "description": "soybeanjs's unocss preset",
   "author": {
