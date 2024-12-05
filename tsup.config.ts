@@ -5,7 +5,7 @@ export default defineConfig({
   clean: true,
   dts: true,
   format: ['cjs', 'esm'],
-  external: [],
+  external: ['@unocss/core'],
   shims: true,
   cjsInterop: true,
   sourcemap: false,
