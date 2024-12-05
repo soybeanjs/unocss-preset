@@ -1,5 +1,9 @@
 # Changelog
 
+## [v0.0.6](https://github.com/soybeanjs/unocss-preset/compare/v0.0.5...v0.0.6) (2024-12-05)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
 ## [v0.0.5](https://github.com/soybeanjs/unocss-preset/compare/v0.0.4...v0.0.5) (2024-12-05)
 
 ### &nbsp;&nbsp;&nbsp;🏡 Chore
