@@ -1,5 +1,16 @@
 # Changelog
 
+## [v0.0.5](https://github.com/soybeanjs/unocss-preset/compare/v0.0.4...v0.0.5) (2024-12-05)
+
+### &nbsp;&nbsp;&nbsp;🏡 Chore
+
+- **deps**: update deps &nbsp;-&nbsp; by @soybeanjs [<samp>(ecf4c)</samp>](https://github.com/soybeanjs/unocss-preset/commit/ecf4c75)
+- **projects**: remove dependabot.yml &nbsp;-&nbsp; by @soybeanjs [<samp>(7634f)</samp>](https://github.com/soybeanjs/unocss-preset/commit/7634fcc)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+[![soybeanjs](https://github.com/soybeanjs.png?size=48)](https://github.com/soybeanjs)&nbsp;&nbsp;
+
 ## [v0.0.4](https://github.com/soybeanjs/unocss-preset/compare/v0.0.3...v0.0.4) (2024-11-16)
 
 ### &nbsp;&nbsp;&nbsp;🏡 Chore
