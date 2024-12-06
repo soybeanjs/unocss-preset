@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.1.0](https://github.com/soybeanjs/unocss-preset/compare/v0.0.6...v0.1.0) (2024-12-06)
+
+### &nbsp;&nbsp;&nbsp;🚨 Breaking Changes
+
+- **projects**: replace `flex-col` with `flex-c` avoid conflict `flex-col` &nbsp;-&nbsp; by @soybeanjs [<samp>(bc163)</samp>](https://github.com/soybeanjs/unocss-preset/commit/bc16316)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+[![soybeanjs](https://github.com/soybeanjs.png?size=48)](https://github.com/soybeanjs)&nbsp;&nbsp;
+
 ## [v0.0.6](https://github.com/soybeanjs/unocss-preset/compare/v0.0.5...v0.0.6) (2024-12-05)
 
 ### &nbsp;&nbsp;&nbsp;❤️ Contributors
