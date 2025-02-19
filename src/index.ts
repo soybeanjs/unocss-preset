@@ -1,7 +1,7 @@
 import type { Preset } from '@unocss/core';
 
-export function presetSoybeanJS(): Preset {
-  return {
+export function presetSoybeanJS() {
+  const preset: Preset<object> = {
     name: 'preset-soybeanjs',
     shortcuts: [
       {
@@ -21,6 +21,8 @@ export function presetSoybeanJS(): Preset {
       }
     ]
   };
+
+  return preset;
 }
 
 export default presetSoybeanJS;
