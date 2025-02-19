@@ -1,5 +1,19 @@
 # Changelog
 
+## [v0.1.1](https://github.com/soybeanjs/unocss-preset/compare/v0.1.0...v0.1.1) (2025-02-19)
+
+### &nbsp;&nbsp;&nbsp;🛠 Optimizations
+
+- **projects**: update return type &nbsp;-&nbsp; by @soybeanjs [<samp>(81ca6)</samp>](https://github.com/soybeanjs/unocss-preset/commit/81ca666)
+
+### &nbsp;&nbsp;&nbsp;🏡 Chore
+
+- **deps**: update deps &nbsp;-&nbsp; by @soybeanjs [<samp>(944df)</samp>](https://github.com/soybeanjs/unocss-preset/commit/944df64)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+[![soybeanjs](https://github.com/soybeanjs.png?size=48)](https://github.com/soybeanjs)&nbsp;&nbsp;
+
 ## [v0.1.0](https://github.com/soybeanjs/unocss-preset/compare/v0.0.6...v0.1.0) (2024-12-06)
 
 ### &nbsp;&nbsp;&nbsp;🚨 Breaking Changes
