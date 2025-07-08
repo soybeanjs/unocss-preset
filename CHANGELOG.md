@@ -1,5 +1,16 @@
 # Changelog
 
+## [v0.1.2](https://github.com/soybeanjs/unocss-preset/compare/v0.1.1...v0.1.2) (2025-07-09)
+
+### &nbsp;&nbsp;&nbsp;🏡 Chore
+
+- **deps**: update deps &nbsp;-&nbsp; by @soybeanjs [<samp>(f16ad)</samp>](https://github.com/soybeanjs/unocss-preset/commit/f16ad83)
+- **projects**: replace tsup with tsdown &nbsp;-&nbsp; by @soybeanjs [<samp>(cd2c6)</samp>](https://github.com/soybeanjs/unocss-preset/commit/cd2c6eb)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+[![soybeanjs](https://github.com/soybeanjs.png?size=48)](https://github.com/soybeanjs)&nbsp;&nbsp;
+
 ## [v0.1.1](https://github.com/soybeanjs/unocss-preset/compare/v0.1.0...v0.1.1) (2025-02-19)
 
 ### &nbsp;&nbsp;&nbsp;🛠 Optimizations
