@@ -1,5 +1,21 @@
 # Changelog
 
+## [v0.1.3](https://github.com/soybeanjs/unocss-preset/compare/v0.1.2...v0.1.3) (2025-08-09)
+
+### &nbsp;&nbsp;&nbsp;💅 Refactors
+
+- **preset**: simplify preset definition using definePreset &nbsp;-&nbsp; by @soybeanjs [<samp>(fddfd)</samp>](https://github.com/soybeanjs/unocss-preset/commit/fddfdf2)
+
+### &nbsp;&nbsp;&nbsp;🏡 Chore
+
+- **deps**: update deps &nbsp;-&nbsp; by @soybeanjs [<samp>(aa1c2)</samp>](https://github.com/soybeanjs/unocss-preset/commit/aa1c26f)
+- **projects**: update vscode settings &nbsp;-&nbsp; by @soybeanjs [<samp>(b2754)</samp>](https://github.com/soybeanjs/unocss-preset/commit/b27544c)
+- **vscode**: remove unused extension recommendations &nbsp;-&nbsp; by @soybeanjs [<samp>(9aa33)</samp>](https://github.com/soybeanjs/unocss-preset/commit/9aa3301)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+[![soybeanjs](https://github.com/soybeanjs.png?size=48)](https://github.com/soybeanjs)&nbsp;&nbsp;
+
 ## [v0.1.2](https://github.com/soybeanjs/unocss-preset/compare/v0.1.1...v0.1.2) (2025-07-09)
 
 ### &nbsp;&nbsp;&nbsp;🏡 Chore
