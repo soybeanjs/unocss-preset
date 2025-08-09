@@ -1,6 +1,6 @@
 import { definePreset } from '@unocss/core';
 
-export const presetSoybeanJS = definePreset({
+export const presetSoybeanJS = definePreset(() => ({
   name: 'preset-soybeanjs',
   shortcuts: [
     {
@@ -19,6 +19,6 @@ export const presetSoybeanJS = definePreset({
       'flex-1-hidden': 'flex-1 overflow-hidden'
     }
   ]
-});
+}));
 
 export default presetSoybeanJS;
