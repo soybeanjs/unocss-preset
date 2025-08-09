@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.1.4](https://github.com/soybeanjs/unocss-preset/compare/v0.1.3...v0.1.4) (2025-08-10)
+
+### &nbsp;&nbsp;&nbsp;💅 Refactors
+
+- **preset**: update preset definition to use arrow function syntax &nbsp;-&nbsp; by @soybeanjs [<samp>(1bbd2)</samp>](https://github.com/soybeanjs/unocss-preset/commit/1bbd298)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+[![soybeanjs](https://github.com/soybeanjs.png?size=48)](https://github.com/soybeanjs)&nbsp;&nbsp;
+
 ## [v0.1.3](https://github.com/soybeanjs/unocss-preset/compare/v0.1.2...v0.1.3) (2025-08-09)
 
 ### &nbsp;&nbsp;&nbsp;💅 Refactors
