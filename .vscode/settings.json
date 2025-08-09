@@ -3,8 +3,7 @@
     "source.fixAll.eslint": "explicit",
     "source.organizeImports": "never"
   },
-  "eslint.experimental.useFlatConfig": true,
   "editor.formatOnSave": false,
-  "eslint.validate": ["json", "jsonc"],
+  "eslint.validate": ["javascript", "typescript", "json", "jsonc"],
   "prettier.enable": false
 }
