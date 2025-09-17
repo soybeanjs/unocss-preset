@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.1.5](https://github.com/soybeanjs/unocss-preset/compare/v0.1.4...v0.1.5) (2025-09-17)
+
+### &nbsp;&nbsp;&nbsp;🏡 Chore
+
+- **deps**: update deps &nbsp;-&nbsp; by @soybeanjs [<samp>(f668e)</samp>](https://github.com/soybeanjs/unocss-preset/commit/f668ebf)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+[![soybeanjs](https://github.com/soybeanjs.png?size=48)](https://github.com/soybeanjs)&nbsp;&nbsp;
+
 ## [v0.1.4](https://github.com/soybeanjs/unocss-preset/compare/v0.1.3...v0.1.4) (2025-08-10)
 
 ### &nbsp;&nbsp;&nbsp;💅 Refactors
