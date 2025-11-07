@@ -2,7 +2,7 @@
   "name": "@soybeanjs/unocss-preset",
   "type": "module",
   "version": "0.1.5",
-  "packageManager": "pnpm@10.16.1",
+  "packageManager": "pnpm@10.20.0",
   "description": "soybeanjs's unocss preset",
   "author": {
     "name": "Soybean",
@@ -47,15 +47,15 @@
     "@unocss/core": "latest"
   },
   "devDependencies": {
-    "@soybeanjs/cli": "1.4.0",
-    "@soybeanjs/eslint-config": "1.7.1",
-    "@types/node": "24.5.1",
-    "eslint": "9.35.0",
-    "lint-staged": "16.1.6",
+    "@soybeanjs/cli": "1.4.1",
+    "@soybeanjs/eslint-config": "1.7.3",
+    "@types/node": "24.10.0",
+    "eslint": "9.39.1",
+    "lint-staged": "16.2.6",
     "simple-git-hooks": "2.13.1",
-    "tsdown": "0.15.2",
-    "tsx": "4.20.5",
-    "typescript": "5.9.2"
+    "tsdown": "0.16.1",
+    "tsx": "4.20.6",
+    "typescript": "5.9.3"
   },
   "simple-git-hooks": {
     "commit-msg": "pnpm soy git-commit-verify",
