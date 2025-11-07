@@ -7,6 +7,5 @@ export default defineConfig({
   dts: true,
   sourcemap: false,
   minify: true,
-  format: ['esm'],
-  target: 'node18'
+  fixedExtension: false
 });
