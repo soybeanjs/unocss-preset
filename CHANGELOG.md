@@ -1,5 +1,15 @@
 # Changelog
 
+## [v0.1.7](https://github.com/soybeanjs/unocss-preset/compare/v0.1.6...v0.1.7) (2025-11-08)
+
+### &nbsp;&nbsp;&nbsp;🏡 Chore
+
+- **tsdown**: remove format and target options from config &nbsp;-&nbsp; by @soybeanjs [<samp>(b34d5)</samp>](https://github.com/soybeanjs/unocss-preset/commit/b34d5e1)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+[![soybeanjs](https://github.com/soybeanjs.png?size=48)](https://github.com/soybeanjs)&nbsp;&nbsp;
+
 ## [v0.1.6](https://github.com/soybeanjs/unocss-preset/compare/v0.1.5...v0.1.6) (2025-11-08)
 
 ### &nbsp;&nbsp;&nbsp;🏡 Chore
