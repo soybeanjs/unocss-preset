@@ -1,6 +1,6 @@
 # @soybeanjs/unocss-preset
 
-Unocss preset for SoybeanJS
+Unocss preset for Soybean
 
 ## Installation
 
@@ -13,18 +13,18 @@ pnpm add -D @soybeanjs/unocss-preset
 ```ts
 // uno.config.ts
 import { defineConfig } from 'unocss';
-import { presetSoybeanJS } from '@soybeanjs/unocss-preset';
+import { presetSoybean } from '@soybeanjs/unocss-preset';
 
 export default defineConfig({
   presets: [
-    presetSoybeanJS()
+    presetSoybean()
   ]
 });
 ```
 
 ## Shortcuts
 
-### Flexbox
+### Flex
 
 | Shortcut | CSS |
 | --- | --- |
