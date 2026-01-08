@@ -7,5 +7,6 @@ export default defineConfig({
   dts: true,
   sourcemap: false,
   minify: true,
-  fixedExtension: false
+  fixedExtension: false,
+  external: ['unocss']
 });

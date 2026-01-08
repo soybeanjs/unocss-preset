@@ -1,7 +1,7 @@
-import { definePreset } from '@unocss/core';
+import { definePreset } from 'unocss';
 
-export const presetSoybeanJS = definePreset(() => ({
-  name: 'preset-soybeanjs',
+export const presetSoybean = definePreset(() => ({
+  name: 'preset-soybean',
   shortcuts: [
     {
       'flex-center': 'flex justify-center items-center',
@@ -21,4 +21,7 @@ export const presetSoybeanJS = definePreset(() => ({
   ]
 }));
 
-export default presetSoybeanJS;
+/**
+ * @deprecated import `presetSoybean` instead
+ */
+export const presetSoybeanJS = presetSoybean;
