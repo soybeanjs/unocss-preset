@@ -1,5 +1,21 @@
 # Changelog
 
+## [v0.2.0](https://github.com/soybeanjs/unocss-preset/compare/v0.1.7...v0.2.0) (2026-01-08)
+
+### &nbsp;&nbsp;&nbsp;💅 Refactors
+
+- **docs**: update README to reflect the renaming of presetSoybeanJS to presetSoybean &nbsp;-&nbsp; by @soybeanjs [<samp>(ce184)</samp>](https://github.com/soybeanjs/unocss-preset/commit/ce18492)
+- **projects**: !rename presetSoybeanJS to presetSoybean and mark as deprecated & use unocss replace @unocss/core &nbsp;-&nbsp; by @soybeanjs [<samp>(048e2)</samp>](https://github.com/soybeanjs/unocss-preset/commit/048e278)
+
+### &nbsp;&nbsp;&nbsp;📖 Documentation
+
+- **projects): docs(projects**: add installation, usage, and shortcut documentation to README. &nbsp;-&nbsp; by **Azir-11** [<samp>(5d891)</samp>](https://github.com/soybeanjs/unocss-preset/commit/5d8919f)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+[![soybeanjs](https://github.com/soybeanjs.png?size=48)](https://github.com/soybeanjs)&nbsp;&nbsp;
+[Azir-11](mailto:2075125282@qq.com)
+
 ## [v0.1.7](https://github.com/soybeanjs/unocss-preset/compare/v0.1.6...v0.1.7) (2025-11-08)
 
 ### &nbsp;&nbsp;&nbsp;🏡 Chore
