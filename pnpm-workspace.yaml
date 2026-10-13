@@ -1,0 +1,8 @@
+catalog:
+  vite: npm:@voidzero-dev/vite-plus-core@latest
+  vite-plus: latest
+overrides:
+  vite: 'catalog:'
+shamefullyHoist: true
+allowBuilds:
+  esbuild: false
