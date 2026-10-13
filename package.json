@@ -44,15 +44,15 @@
     "upkg": "soy ncu"
   },
   "dependencies": {
-    "unocss": "^66.5.12"
+    "unocss": "^66.11.0"
   },
   "devDependencies": {
     "@soybeanjs/cli": "^1.8.4",
     "@soybeanjs/oxc-config": "^0.2.6",
-    "@types/node": "^26.6.4",
+    "@types/node": "^26.6.5",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "vite-plus": "catalog:"
   },
-  "packageManager": "pnpm@12.10.1"
+  "packageManager": "pnpm@12.11.2"
 }
